@@ -1,0 +1,10 @@
+D:\САА2020\sudoku\sudoku\obj\Debug\sudoku.Form1.resources
+D:\САА2020\sudoku\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+D:\САА2020\sudoku\sudoku\obj\Debug\sudoku.csproj.GenerateResource.cache
+D:\САА2020\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+D:\САА2020\sudoku\sudoku\bin\Debug\sudoku.exe.config
+D:\САА2020\sudoku\sudoku\bin\Debug\sudoku.exe
+D:\САА2020\sudoku\sudoku\bin\Debug\sudoku.pdb
+D:\САА2020\sudoku\sudoku\obj\Debug\sudoku.exe
+D:\САА2020\sudoku\sudoku\obj\Debug\sudoku.pdb
+D:\САА2020\sudoku\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
